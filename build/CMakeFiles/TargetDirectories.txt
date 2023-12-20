@@ -1,0 +1,6 @@
+C:/Users/admin/Downloads/mp-laba6-nb/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Downloads/mp-laba6-nb/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/admin/Downloads/mp-laba6-nb/build/src/CMakeFiles/set.dir
+C:/Users/admin/Downloads/mp-laba6-nb/build/samples/CMakeFiles/sample_prime_numbers.dir
+C:/Users/admin/Downloads/mp-laba6-nb/build/gtest/CMakeFiles/gtest.dir
+C:/Users/admin/Downloads/mp-laba6-nb/build/test/CMakeFiles/test_set.dir
